@@ -4,7 +4,6 @@ texlive-fonts-recommended
 texlive-generic-recommended
 texlive-latex-base
 texlive-xetex
-latex-xcolor
 texlive-latex-extra
 texlive-math-extra
 texlive-fonts-extra
