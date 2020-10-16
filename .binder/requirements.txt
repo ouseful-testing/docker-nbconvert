@@ -4,3 +4,4 @@ myst-nb
 Sphinx
 nbsphinx
 jupyter-book
+jupyter_contrib_nbextensions # adds: jupyter nbconvert --to html_embed
