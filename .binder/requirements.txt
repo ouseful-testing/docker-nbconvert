@@ -1,5 +1,6 @@
 nbconvert
 jupytext
 myst-nb
+Sphinx
 nbsphinx
 jupyter-book
